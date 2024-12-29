@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+header{
+    background-image: url(pexels-apasaric-325185.jpg);
+  display: flex;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+
+}
+
+    
+    
+    
+ 
+nav{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 0;
+    
+}
+
+
+nav a {
+    margin: 0  100px;
+
+}
+
+
+.menu-item{
+    
+    text-decoration: none;
+    color: aliceblue;
+    
+  
+}
